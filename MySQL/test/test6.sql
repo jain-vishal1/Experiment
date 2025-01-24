@@ -1,0 +1,1 @@
+CREATE TABLE mytable6 (a INT64, b INT64) PRIMARY KEY(a)

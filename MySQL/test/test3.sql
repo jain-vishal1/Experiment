@@ -1,0 +1,1 @@
+CREATE TABLE mytable3 (a INT64, b INT64) PRIMARY KEY(a)
